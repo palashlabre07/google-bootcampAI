@@ -1,0 +1,6 @@
+{
+  "name": "Aura — Mindful Wellness & Living Studio",
+  "description": "A high-fidelity multi-screen mindful wellness app featuring daily habit tracking, ambient soundscapes, apothecary store, and interactive device simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
